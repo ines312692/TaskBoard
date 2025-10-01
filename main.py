@@ -1,2 +1,2 @@
 print('hello world ')
-pr
+pri
